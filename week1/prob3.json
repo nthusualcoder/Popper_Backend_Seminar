@@ -1,0 +1,15 @@
+{
+    "name": "김종민",
+    "job": "student",
+    "age": 21,
+    "hobby": ["league of legend", "reading book", "watching youtube"],
+    "course_table": [
+        {"name": "객체지향프로그래밍", "id": "CSED232-01"},
+        {"name": "WI-과학철학", "id": "WICMST303-01"},
+        {"name": "과학철학", "id": "CMST303-1"},
+        {"name": "동역학", "id": "MECH211-01"},
+        {"name": "응용선형대수", "id": "MATH203-01"},
+        {"name": "이미지의 기원과 비주얼 리터러시", "id": "CMCC304-01"},
+        {"name": "전산제도및설계", "id": "MECH202-01"}
+    ]
+}
